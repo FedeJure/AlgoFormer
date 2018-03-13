@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{C179880E-9894-A5F5-17B9-C83F356D5D5B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_1;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;CROSS_PLATFORM_INPUT;MOBILE_INPUT</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AlActivar.cs" />
+     <Compile Include="Assets\AlejadorCamara.cs" />
+     <Compile Include="Assets\BlazeSave\Demo\PartidaGuardada.cs" />
+     <Compile Include="Assets\BlazeSave\Demo\SaveTest.cs" />
+     <Compile Include="Assets\BlazeSave\Scripts\BlazeSave.cs" />
+     <Compile Include="Assets\Consola.cs" />
+     <Compile Include="Assets\Pausa.cs" />
+     <Compile Include="Assets\Players\Online\CamaraOnline.cs" />
+     <Compile Include="Assets\Players\Online\NetManager.cs" />
+     <Compile Include="Assets\Players\Online\ReiniciadorNetManager.cs" />
+     <Compile Include="Assets\Players\Online\playerOnline.cs" />
+     <Compile Include="Assets\ReiniciarPartida.cs" />
+     <Compile Include="Assets\Vibration.cs" />
+     <Compile Include="Assets\VibrationService.cs" />
+     <Compile Include="Assets\desaparecerCartel.cs" />
+     <Compile Include="Assets\objetos\GUI\AbrirNetworkManager.cs" />
+     <Compile Include="Assets\objetos\GUI\PanelOpciones.cs" />
+     <Compile Include="Assets\objetos\GUI\PantallaCargarPartida.cs" />
+     <Compile Include="Assets\objetos\GUI\SaveSlot.cs" />
+     <Compile Include="Assets\scripts\Accion.cs" />
+     <Compile Include="Assets\scripts\AccionCajaCheckpoint.cs" />
+     <Compile Include="Assets\scripts\AccionCajaConObjetos.cs" />
+     <Compile Include="Assets\scripts\AccionCajaNitro.cs" />
+     <Compile Include="Assets\scripts\AccionCajaTNT.cs" />
+     <Compile Include="Assets\scripts\AccionCajasVarias.cs" />
+     <Compile Include="Assets\scripts\AccionLimiteCaida.cs" />
+     <Compile Include="Assets\scripts\ActivarCaja.cs" />
+     <Compile Include="Assets\scripts\BotonNuevaPartida.cs" />
+     <Compile Include="Assets\scripts\CajaSalto.cs" />
+     <Compile Include="Assets\scripts\CajaTNTActivacion.cs" />
+     <Compile Include="Assets\scripts\ControladorDeNivel.cs" />
+     <Compile Include="Assets\scripts\ControladorPantallas.cs" />
+     <Compile Include="Assets\scripts\ControladorSalaDelJuego.cs" />
+     <Compile Include="Assets\scripts\CrashRush.cs" />
+     <Compile Include="Assets\scripts\DestructorCaja.cs" />
+     <Compile Include="Assets\scripts\EnemyAI.cs" />
+     <Compile Include="Assets\scripts\Explosion.cs" />
+     <Compile Include="Assets\scripts\Jugador.cs" />
+     <Compile Include="Assets\scripts\JumpRushAttack.cs" />
+     <Compile Include="Assets\scripts\MiNetworkManager.cs" />
+     <Compile Include="Assets\scripts\ObjetoRecolectable.cs" />
+     <Compile Include="Assets\scripts\ObjetoVida.cs" />
+     <Compile Include="Assets\scripts\PlayerMotor.cs" />
+     <Compile Include="Assets\scripts\Portal.cs" />
+     <Compile Include="Assets\scripts\ReceptorDeAtaquesObjetos.cs" />
+     <Compile Include="Assets\scripts\ReceptorDeAtaquesPlayer.cs" />
+     <Compile Include="Assets\scripts\RecolectorDeObjetos.cs" />
+     <Compile Include="Assets\scripts\SistemaDePeleaCrash.cs" />
+     <Compile Include="Assets\scripts\SistemaDePeleaSonic.cs" />
+     <Compile Include="Assets\scripts\SwitchPlayer.cs" />
+     <Compile Include="Assets\scripts\Utilidades.cs" />
+     <Compile Include="Assets\scripts\borrar.cs" />
+     <Compile Include="Assets\scripts\botones.cs" />
+     <Compile Include="Assets\scripts\canvasControl.cs" />
+     <Compile Include="Assets\scripts\controladorEscena.cs" />
+     <Compile Include="Assets\scripts\muerte.cs" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>C:/Program Files/Unity/Unity 5(version vieja)/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{617F294C-D4B1-E68F-E75F-BF3FAB7CFE92}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

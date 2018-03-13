@@ -1,0 +1,3136 @@
+fileFormatVersion: 2
+guid: 0e98cc8f1926d864b8f72feb79542966
+timeCreated: 1483668656
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crashBandicootSprites_0
+    21300002: crashBandicootSprites_1
+    21300004: crashBandicootSprites_2
+    21300006: crashBandicootSprites_3
+    21300008: crashBandicootSprites_4
+    21300010: crashBandicootSprites_5
+    21300012: crashBandicootSprites_6
+    21300014: crashBandicootSprites_7
+    21300016: crashBandicootSprites_8
+    21300018: crashBandicootSprites_9
+    21300020: crashBandicootSprites_10
+    21300022: crashBandicootSprites_11
+    21300024: crashBandicootSprites_12
+    21300026: crashBandicootSprites_13
+    21300028: crashBandicootSprites_14
+    21300030: crashBandicootSprites_15
+    21300032: crashBandicootSprites_16
+    21300034: crashBandicootSprites_17
+    21300036: crashBandicootSprites_18
+    21300038: crashBandicootSprites_19
+    21300040: crashBandicootSprites_20
+    21300042: crashBandicootSprites_21
+    21300044: crashBandicootSprites_22
+    21300046: crashBandicootSprites_23
+    21300048: crashBandicootSprites_24
+    21300050: crashBandicootSprites_25
+    21300052: crashBandicootSprites_26
+    21300054: crashBandicootSprites_27
+    21300056: crashBandicootSprites_28
+    21300058: crashBandicootSprites_29
+    21300060: crashBandicootSprites_30
+    21300062: crashBandicootSprites_31
+    21300064: crashBandicootSprites_32
+    21300066: crashBandicootSprites_33
+    21300068: crashBandicootSprites_34
+    21300070: crashBandicootSprites_35
+    21300072: crashBandicootSprites_36
+    21300074: crashBandicootSprites_37
+    21300076: crashBandicootSprites_38
+    21300078: crashBandicootSprites_39
+    21300080: crashBandicootSprites_40
+    21300082: crashBandicootSprites_41
+    21300084: crashBandicootSprites_42
+    21300086: crashBandicootSprites_43
+    21300088: crashBandicootSprites_44
+    21300090: crashBandicootSprites_45
+    21300092: crashBandicootSprites_46
+    21300094: crashBandicootSprites_47
+    21300096: crashBandicootSprites_48
+    21300098: crashBandicootSprites_49
+    21300100: crashBandicootSprites_50
+    21300102: crashBandicootSprites_55
+    21300104: crashBandicootSprites_56
+    21300106: crashBandicootSprites_57
+    21300108: crashBandicootSprites_58
+    21300110: crashBandicootSprites_59
+    21300112: crashBandicootSprites_60
+    21300114: crashBandicootSprites_61
+    21300116: crashBandicootSprites_62
+    21300118: crashBandicootSprites_63
+    21300120: crashBandicootSprites_67
+    21300122: crashBandicootSprites_68
+    21300124: crashBandicootSprites_69
+    21300126: crashBandicootSprites_70
+    21300128: crashBandicootSprites_74
+    21300130: crashBandicootSprites_75
+    21300132: crashBandicootSprites_76
+    21300134: crashBandicootSprites_77
+    21300136: crashBandicootSprites_78
+    21300138: crashBandicootSprites_79
+    21300140: crashBandicootSprites_80
+    21300142: crashBandicootSprites_81
+    21300144: crashBandicootSprites_82
+    21300146: crashBandicootSprites_83
+    21300148: crashBandicootSprites_84
+    21300150: crashBandicootSprites_85
+    21300152: crashBandicootSprites_86
+    21300154: crashBandicootSprites_87
+    21300156: crashBandicootSprites_88
+    21300158: crashBandicootSprites_89
+    21300160: crashBandicootSprites_90
+    21300162: crashBandicootSprites_91
+    21300164: crashBandicootSprites_92
+    21300166: crashBandicootSprites_93
+    21300168: crashBandicootSprites_94
+    21300170: crashBandicootSprites_95
+    21300172: crashBandicootSprites_96
+    21300174: crashBandicootSprites_97
+    21300176: crashBandicootSprites_98
+    21300178: crashBandicootSprites_99
+    21300180: crashBandicootSprites_100
+    21300182: crashBandicootSprites_101
+    21300184: crashBandicootSprites_102
+    21300186: crashBandicootSprites_103
+    21300188: crashBandicootSprites_104
+    21300190: crashBandicootSprites_105
+    21300192: crashBandicootSprites_106
+    21300194: crashBandicootSprites_107
+    21300196: crashBandicootSprites_108
+    21300198: crashBandicootSprites_109
+    21300200: crashBandicootSprites_110
+    21300202: crashBandicootSprites_111
+    21300204: crashBandicootSprites_112
+    21300206: crashBandicootSprites_113
+    21300208: crashBandicootSprites_114
+    21300210: crashBandicootSprites_115
+    21300212: crashBandicootSprites_116
+    21300214: crashBandicootSprites_117
+    21300216: crashBandicootSprites_118
+    21300218: crashBandicootSprites_119
+    21300220: crashBandicootSprites_120
+    21300222: crashBandicootSprites_121
+    21300224: crashBandicootSprites_122
+    21300226: crashBandicootSprites_123
+    21300228: crashBandicootSprites_124
+    21300230: crashBandicootSprites_125
+    21300232: crashBandicootSprites_126
+    21300234: crashBandicootSprites_127
+    21300236: crashBandicootSprites_128
+    21300238: crashBandicootSprites_129
+    21300240: crashBandicootSprites_130
+    21300242: crashBandicootSprites_131
+    21300244: crashBandicootSprites_132
+    21300246: crashBandicootSprites_133
+    21300248: crashBandicootSprites_134
+    21300250: crashBandicootSprites_135
+    21300252: crashBandicootSprites_136
+    21300254: crashBandicootSprites_137
+    21300256: crashBandicootSprites_138
+    21300258: crashBandicootSprites_139
+    21300260: crashBandicootSprites_140
+    21300262: crashBandicootSprites_141
+    21300264: crashBandicootSprites_142
+    21300266: crashBandicootSprites_143
+    21300268: crashBandicootSprites_144
+    21300270: crashBandicootSprites_145
+    21300272: crashBandicootSprites_146
+    21300274: crashBandicootSprites_147
+    21300276: crashBandicootSprites_148
+    21300278: crashBandicootSprites_149
+    21300280: crashBandicootSprites_150
+    21300282: crashBandicootSprites_151
+    21300284: crashBandicootSprites_152
+    21300286: crashBandicootSprites_153
+    21300288: crashBandicootSprites_154
+    21300290: crashBandicootSprites_155
+    21300292: crashBandicootSprites_156
+    21300294: crashBandicootSprites_157
+    21300296: crashBandicootSprites_158
+    21300298: crashBandicootSprites_159
+    21300300: crashBandicootSprites_163
+    21300302: crashBandicootSprites_164
+    21300304: crashBandicootSprites_165
+    21300306: crashBandicootSprites_166
+    21300308: crashBandicootSprites_172
+    21300310: crashBandicootSprites_173
+    21300312: crashBandicootSprites_174
+    21300314: crashBandicootSprites_175
+    21300316: crashBandicootSprites_176
+    21300318: crashBandicootSprites_177
+    21300320: crashBandicootSprites_178
+    21300322: crashBandicootSprites_179
+    21300324: crashBandicootSprites_180
+    21300326: crashBandicootSprites_181
+    21300328: crashBandicootSprites_182
+    21300330: crashBandicootSprites_183
+    21300332: crashBandicootSprites_184
+    21300334: crashBandicootSprites_185
+    21300336: crashBandicootSprites_186
+    21300338: crashBandicootSprites_187
+    21300340: crashBandicootSprites_188
+    21300342: crashBandicootSprites_189
+    21300344: crashBandicootSprites_190
+    21300346: crashBandicootSprites_191
+    21300348: crashBandicootSprites_192
+    21300350: crashBandicootSprites_193
+    21300352: crashBandicootSprites_194
+    21300354: crashBandicootSprites_195
+    21300356: crashBandicootSprites_196
+    21300358: crashBandicootSprites_197
+    21300360: crashBandicootSprites_198
+    21300362: crashBandicootSprites_199
+    21300364: crashBandicootSprites_200
+    21300366: crashBandicootSprites_201
+    21300368: crashBandicootSprites_202
+    21300370: crashBandicootSprites_203
+    21300372: crashBandicootSprites_204
+    21300374: crashBandicootSprites_205
+    21300376: crashBandicootSprites_206
+    21300378: crashBandicootSprites_207
+    21300380: crashBandicootSprites_208
+    21300382: crashBandicootSprites_209
+    21300384: crashBandicootSprites_210
+    21300386: crashBandicootSprites_212
+    21300388: crashBandicootSprites_218
+    21300390: crashBandicootSprites_219
+    21300392: crashBandicootSprites_220
+    21300394: crashBandicootSprites_221
+    21300396: crashBandicootSprites_222
+    21300398: crashBandicootSprites_223
+    21300400: crashBandicootSprites_224
+    21300402: crashBandicootSprites_225
+    21300404: crashBandicootSprites_226
+    21300406: crashBandicootSprites_227
+    21300408: crashBandicootSprites_228
+    21300410: crashBandicootSprites_229
+    21300412: crashBandicootSprites_230
+    21300414: crashBandicootSprites_231
+    21300416: crashBandicootSprites_232
+    21300418: crashBandicootSprites_233
+    21300420: crashBandicootSprites_234
+    21300422: crashBandicootSprites_235
+    21300424: crashBandicootSprites_236
+    21300426: crashBandicootSprites_237
+    21300428: crashBandicootSprites_238
+    21300430: crashBandicootSprites_239
+    21300432: crashBandicootSprites_240
+    21300434: crashBandicootSprites_241
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crashBandicootSprites_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1735
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1735
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1690
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1690
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1690
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1690
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1690
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1690
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1690
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1690
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1690
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1675
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1675
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1625
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1626
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1629
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1629
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1627
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1612
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1612
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1559
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1565
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1561
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1560
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1560
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1565
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1561
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1561
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1537
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1537
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1488
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1488
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1488
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1488
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1488
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1488
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1488
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1488
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1488
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1488
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1488
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1488
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1489
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1489
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1458
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1460
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1458
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1412
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1410
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1415
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1412
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1333
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1329
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_57
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1326
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1326
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1328
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_60
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1328
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1326
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1326
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1329
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1240
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1240
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1240
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1240
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1156
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1159
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1169
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1183
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1176
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1173
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1174
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_81
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1156
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_82
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1130
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_84
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1130
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1087
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1087
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1086
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_90
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1086
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1086
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1086
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_93
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1086
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_94
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1078
+        width: 149
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1063
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1065
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1065
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1065
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1063
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1068
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1068
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1065
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_103
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1068
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1068
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1022
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1022
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1022
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1022
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_109
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1022
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1022
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1002
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_112
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1004
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1002
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 956
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 963
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_116
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 967
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 964
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_118
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 963
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 959
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 958
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_121
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 960
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_122
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 929
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 929
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_124
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 929
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 929
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 929
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_127
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 875
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 875
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 875
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_130
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 875
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 875
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_132
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 875
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_133
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 874
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_134
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 874
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_135
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 874
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_136
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 875
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_137
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 874
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_138
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 874
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 856
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_140
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 804
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 804
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_142
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 804
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 804
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_144
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 803
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_145
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 803
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 786
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 788
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_148
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 786
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 726
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_150
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 726
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 726
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_152
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 726
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_153
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 697
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_154
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 697
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_155
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 697
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_156
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 643
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_157
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 643
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_158
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 643
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_159
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 643
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_163
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 657
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_164
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 588
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_165
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_166
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 588
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_172
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 590
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_173
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 590
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_174
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 590
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 522
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_176
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 522
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_177
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 522
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_178
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 522
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_179
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 522
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_180
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 522
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_181
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 522
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_182
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 522
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_183
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 522
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_184
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 527
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_185
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 530
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_186
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 530
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_187
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 530
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_188
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 537
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_189
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 525
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_191
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 523
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_192
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 465
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_193
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 470
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_194
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 470
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_195
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 468
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_196
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 467
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_197
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 468
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_198
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 469
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_199
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 482
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_200
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 446
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_201
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 446
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_202
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 398
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_203
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 398
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_204
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 398
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_205
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 397
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_206
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 375
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_207
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 375
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_208
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 375
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_209
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_210
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 310
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_212
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 298
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_218
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_219
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 258
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_220
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 178
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_221
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 178
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_222
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_223
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_224
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_225
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_226
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 118
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_228
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 118
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_229
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_230
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 118
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_231
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 118
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_232
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_233
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 118
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_234
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_235
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 83
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_236
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 82
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_237
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 82
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_238
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 30
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_239
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 27
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_240
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 27
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashBandicootSprites_241
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 27
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4732 @@
+fileFormatVersion: 2
+guid: 9182f17e12e02114296fdfc3ff322ca9
+timeCreated: 1516730783
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crashSprite_0
+    21300002: crashSprite_1
+    21300004: crashSprite_2
+    21300006: crashSprite_3
+    21300008: crashSprite_4
+    21300010: crashSprite_5
+    21300012: crashSprite_6
+    21300014: crashSprite_7
+    21300016: crashSprite_8
+    21300018: crashSprite_9
+    21300020: crashSprite_10
+    21300022: crashSprite_11
+    21300024: crashSprite_12
+    21300026: crashSprite_13
+    21300028: crashSprite_14
+    21300030: crashSprite_15
+    21300032: crashSprite_16
+    21300034: crashSprite_17
+    21300036: crashSprite_18
+    21300038: crashSprite_19
+    21300040: crashSprite_20
+    21300042: crashSprite_21
+    21300044: crashSprite_22
+    21300046: crashSprite_23
+    21300048: crashSprite_24
+    21300050: crashSprite_25
+    21300052: crashSprite_26
+    21300054: crashSprite_27
+    21300056: crashSprite_28
+    21300058: crashSprite_29
+    21300060: crashSprite_30
+    21300062: crashSprite_31
+    21300064: crashSprite_32
+    21300066: crashSprite_33
+    21300068: crashSprite_34
+    21300070: crashSprite_35
+    21300072: crashSprite_36
+    21300074: crashSprite_37
+    21300076: crashSprite_38
+    21300078: crashSprite_39
+    21300080: crashSprite_40
+    21300082: crashSprite_41
+    21300084: crashSprite_42
+    21300086: crashSprite_43
+    21300088: crashSprite_44
+    21300090: crashSprite_45
+    21300092: crashSprite_46
+    21300094: crashSprite_47
+    21300096: crashSprite_48
+    21300098: crashSprite_49
+    21300100: crashSprite_50
+    21300102: crashSprite_51
+    21300104: crashSprite_52
+    21300106: crashSprite_53
+    21300108: crashSprite_54
+    21300110: crashSprite_55
+    21300112: crashSprite_56
+    21300114: crashSprite_57
+    21300116: crashSprite_58
+    21300118: crashSprite_59
+    21300120: crashSprite_60
+    21300122: crashSprite_61
+    21300124: crashSprite_62
+    21300126: crashSprite_63
+    21300128: crashSprite_64
+    21300130: crashSprite_65
+    21300132: crashSprite_66
+    21300134: crashSprite_67
+    21300136: crashSprite_68
+    21300138: crashSprite_69
+    21300140: crashSprite_70
+    21300142: crashSprite_71
+    21300144: crashSprite_72
+    21300146: crashSprite_73
+    21300148: crashSprite_74
+    21300150: crashSprite_75
+    21300152: crashSprite_76
+    21300154: crashSprite_77
+    21300156: crashSprite_78
+    21300158: crashSprite_79
+    21300160: crashSprite_80
+    21300162: crashSprite_81
+    21300164: crashSprite_82
+    21300166: crashSprite_83
+    21300168: crashSprite_84
+    21300170: crashSprite_85
+    21300172: crashSprite_86
+    21300174: crashSprite_87
+    21300176: crashSprite_88
+    21300178: crashSprite_89
+    21300180: crashSprite_90
+    21300182: crashSprite_91
+    21300184: crashSprite_92
+    21300186: crashSprite_93
+    21300188: crashSprite_94
+    21300190: crashSprite_95
+    21300192: crashSprite_96
+    21300194: crashSprite_97
+    21300196: crashSprite_98
+    21300198: crashSprite_99
+    21300200: crashSprite_100
+    21300202: crashSprite_101
+    21300204: crashSprite_102
+    21300206: crashSprite_103
+    21300208: crashSprite_104
+    21300210: crashSprite_105
+    21300212: crashSprite_106
+    21300214: crashSprite_107
+    21300216: crashSprite_108
+    21300218: crashSprite_109
+    21300220: crashSprite_110
+    21300222: crashSprite_111
+    21300224: crashSprite_112
+    21300226: crashSprite_113
+    21300228: crashSprite_114
+    21300230: crashSprite_115
+    21300232: crashSprite_116
+    21300234: crashSprite_117
+    21300236: crashSprite_118
+    21300238: crashSprite_119
+    21300240: crashSprite_120
+    21300242: crashSprite_121
+    21300244: crashSprite_122
+    21300246: crashSprite_123
+    21300248: crashSprite_124
+    21300250: crashSprite_125
+    21300252: crashSprite_126
+    21300254: crashSprite_127
+    21300256: crashSprite_128
+    21300258: crashSprite_129
+    21300260: crashSprite_130
+    21300262: crashSprite_131
+    21300264: crashSprite_132
+    21300266: crashSprite_133
+    21300268: crashSprite_134
+    21300270: crashSprite_135
+    21300272: crashSprite_136
+    21300274: crashSprite_137
+    21300276: crashSprite_138
+    21300278: crashSprite_139
+    21300280: crashSprite_140
+    21300282: crashSprite_141
+    21300284: crashSprite_142
+    21300286: crashSprite_143
+    21300288: crashSprite_144
+    21300290: crashSprite_145
+    21300292: crashSprite_146
+    21300294: crashSprite_147
+    21300296: crashSprite_148
+    21300298: crashSprite_149
+    21300300: crashSprite_150
+    21300302: crashSprite_151
+    21300304: crashSprite_152
+    21300306: crashSprite_153
+    21300308: crashSprite_154
+    21300310: crashSprite_155
+    21300312: crashSprite_156
+    21300314: crashSprite_157
+    21300316: crashSprite_158
+    21300318: crashSprite_159
+    21300320: crashSprite_160
+    21300322: crashSprite_161
+    21300324: crashSprite_162
+    21300326: crashSprite_163
+    21300328: crashSprite_164
+    21300330: crashSprite_165
+    21300332: crashSprite_166
+    21300334: crashSprite_167
+    21300336: crashSprite_168
+    21300338: crashSprite_169
+    21300340: crashSprite_170
+    21300342: crashSprite_171
+    21300344: crashSprite_172
+    21300346: crashSprite_173
+    21300348: crashSprite_174
+    21300350: crashSprite_175
+    21300352: crashSprite_176
+    21300354: crashSprite_177
+    21300356: crashSprite_178
+    21300358: crashSprite_179
+    21300360: crashSprite_180
+    21300362: crashSprite_181
+    21300364: crashSprite_182
+    21300366: crashSprite_183
+    21300368: crashSprite_184
+    21300370: crashSprite_185
+    21300372: crashSprite_186
+    21300374: crashSprite_187
+    21300376: crashSprite_188
+    21300378: crashSprite_189
+    21300380: crashSprite_190
+    21300382: crashSprite_191
+    21300384: crashSprite_192
+    21300386: crashSprite_193
+    21300388: crashSprite_194
+    21300390: crashSprite_195
+    21300392: crashSprite_196
+    21300394: crashSprite_197
+    21300396: crashSprite_198
+    21300398: crashSprite_199
+    21300400: crashSprite_200
+    21300402: crashSprite_201
+    21300404: crashSprite_202
+    21300406: crashSprite_203
+    21300408: crashSprite_204
+    21300410: crashSprite_205
+    21300412: crashSprite_206
+    21300414: crashSprite_207
+    21300416: crashSprite_208
+    21300418: crashSprite_209
+    21300420: crashSprite_210
+    21300422: crashSprite_211
+    21300424: crashSprite_212
+    21300426: crashSprite_213
+    21300428: crashSprite_214
+    21300430: crashSprite_215
+    21300432: crashSprite_216
+    21300434: crashSprite_217
+    21300436: crashSprite_218
+    21300438: crashSprite_219
+    21300440: crashSprite_220
+    21300442: crashSprite_221
+    21300444: crashSprite_222
+    21300446: crashSprite_223
+    21300448: crashSprite_224
+    21300450: crashSprite_225
+    21300452: crashSprite_226
+    21300454: crashSprite_227
+    21300456: crashSprite_228
+    21300458: crashSprite_229
+    21300460: crashSprite_230
+    21300462: crashSprite_231
+    21300464: crashSprite_232
+    21300466: crashSprite_233
+    21300468: crashSprite_234
+    21300470: crashSprite_235
+    21300472: crashSprite_236
+    21300474: crashSprite_237
+    21300476: crashSprite_238
+    21300478: crashSprite_239
+    21300480: crashSprite_240
+    21300482: crashSprite_241
+    21300484: crashSprite_242
+    21300486: crashSprite_243
+    21300488: crashSprite_244
+    21300490: crashSprite_245
+    21300492: crashSprite_246
+    21300494: crashSprite_247
+    21300496: crashSprite_248
+    21300498: crashSprite_249
+    21300500: crashSprite_250
+    21300502: crashSprite_251
+    21300504: crashSprite_252
+    21300506: crashSprite_253
+    21300508: crashSprite_254
+    21300510: crashSprite_255
+    21300512: crashSprite_256
+    21300514: crashSprite_257
+    21300516: crashSprite_258
+    21300518: crashSprite_259
+    21300520: crashSprite_260
+    21300522: crashSprite_261
+    21300524: crashSprite_262
+    21300526: crashSprite_263
+    21300528: crashSprite_264
+    21300530: crashSprite_265
+    21300532: crashSprite_266
+    21300534: crashSprite_267
+    21300536: crashSprite_268
+    21300538: crashSprite_269
+    21300540: crashSprite_270
+    21300542: crashSprite_271
+    21300544: crashSprite_272
+    21300546: crashSprite_273
+    21300548: crashSprite_274
+    21300550: crashSprite_275
+    21300552: crashSprite_276
+    21300554: crashSprite_277
+    21300556: crashSprite_278
+    21300558: crashSprite_279
+    21300560: crashSprite_280
+    21300562: crashSprite_281
+    21300564: crashSprite_282
+    21300566: crashSprite_283
+    21300568: crashSprite_284
+    21300570: crashSprite_285
+    21300572: crashSprite_286
+    21300574: crashSprite_287
+    21300576: crashSprite_288
+    21300578: crashSprite_289
+    21300580: crashSprite_290
+    21300582: crashSprite_291
+    21300584: crashSprite_292
+    21300586: crashSprite_293
+    21300588: crashSprite_294
+    21300590: crashSprite_295
+    21300592: crashSprite_296
+    21300594: crashSprite_297
+    21300596: crashSprite_298
+    21300598: crashSprite_299
+    21300600: crashSprite_300
+    21300602: crashSprite_301
+    21300604: crashSprite_302
+    21300606: crashSprite_303
+    21300608: crashSprite_304
+    21300610: crashSprite_305
+    21300612: crashSprite_306
+    21300614: crashSprite_307
+    21300616: crashSprite_308
+    21300618: crashSprite_309
+    21300620: crashSprite_310
+    21300622: crashSprite_311
+    21300624: crashSprite_312
+    21300626: crashSprite_313
+    21300628: crashSprite_314
+    21300630: crashSprite_315
+    21300632: crashSprite_316
+    21300634: crashSprite_317
+    21300636: crashSprite_318
+    21300638: crashSprite_319
+    21300640: crashSprite_320
+    21300642: crashSprite_321
+    21300644: crashSprite_322
+    21300646: crashSprite_323
+    21300648: crashSprite_324
+    21300650: crashSprite_325
+    21300652: crashSprite_326
+    21300654: crashSprite_327
+    21300656: crashSprite_328
+    21300658: crashSprite_329
+    21300660: crashSprite_330
+    21300662: crashSprite_331
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crashSprite_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 922
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 922
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 922
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 922
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 922
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 922
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 922
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 922
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 922
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 879
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 879
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 879
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 879
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 879
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 879
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 879
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 879
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 879
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 879
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_24
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 879
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 879
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 838
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 838
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 838
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 838
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 838
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 838
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 838
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 838
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 838
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 838
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 838
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 838
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 838
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 838
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 794
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 794
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 794
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 794
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 794
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 794
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 794
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 794
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 794
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_49
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 794
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 794
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 794
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 794
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 794
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 729
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_55
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 728
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 728
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 728
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 728
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 728
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 728
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 728
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_62
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 728
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 728
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 728
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_65
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 728
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 728
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 728
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_68
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 728
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 728
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_70
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 728
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_71
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 728
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_72
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 728
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_73
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 729
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 684
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 684
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 684
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 684
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_78
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 684
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 684
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_80
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 684
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_81
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 684
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 684
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_83
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 684
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_84
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 684
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_85
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 684
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 684
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_87
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 684
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 684
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 684
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_90
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 684
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_91
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 684
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_92
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 684
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_93
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 684
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 684
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_95
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 684
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 633
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_97
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 633
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 633
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_99
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 633
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_100
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 633
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 633
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_102
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 633
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_103
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 633
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_104
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 633
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_105
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 633
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_106
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 633
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_107
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 633
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 633
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 633
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 591
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 592
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_112
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 592
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.52443266, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_113
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 592
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_114
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 592
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5325771, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_115
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 592
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_116
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 592
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4860382, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 592
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51628876, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_118
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 592
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.561423, y: 0.966185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_119
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 592
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9535851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_120
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 592
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48596105, y: 0.9913831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_121
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 592
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.97878325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_122
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 592
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46015725, y: 0.966185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_123
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 592
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51535606, y: 0.97878325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_124
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 592
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 1.0039829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_125
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 592
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 1.0039829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_126
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 553
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 552
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_128
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 553
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5488653, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_129
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 553
+        width: 35
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5115008, y: 0.7611508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 553
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52093977, y: 0.7982091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_131
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 553
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5105657, y: 0.7782521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_132
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 553
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50140876, y: 0.6717009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_133
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 553
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 553
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_135
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 553
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_136
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 553
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_137
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 553
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_138
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 553
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_139
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 553
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_140
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 489
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_141
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 489
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_142
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 489
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_143
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 489
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_144
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 489
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_145
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 489
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_146
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 489
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_147
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 489
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_148
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 488
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 488
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_150
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 488
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_151
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 488
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 488
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 488
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_154
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 488
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_155
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 488
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_156
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 488
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_157
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 488
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_158
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 488
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_159
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 488
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_160
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 488
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_161
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 488
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_162
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 418
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 418
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_164
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 418
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_165
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 418
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 418
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_167
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 418
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_168
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 418
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_169
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 418
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_170
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 418
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_171
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 418
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_172
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 418
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_173
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 418
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_174
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 418
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_175
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 418
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_176
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 418
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_177
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 418
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_178
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 367
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_179
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 367
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_180
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 367
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_181
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 367
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_182
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 367
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_183
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 367
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_184
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 367
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_185
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 367
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_186
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 367
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_187
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 367
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 367
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_189
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 367
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_190
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 367
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_191
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 367
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_192
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 367
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_193
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 367
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_194
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 319
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 319
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_196
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_197
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_198
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_199
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_200
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_201
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_203
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 319
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_204
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 319
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_205
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_206
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_207
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_208
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_209
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_210
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_211
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_212
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 319
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_213
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 319
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_214
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 270
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_215
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 270
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_216
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 271
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_217
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_218
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_219
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 272
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_220
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 272
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_221
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 272
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_223
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 273
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_224
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 273
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_225
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 272
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_226
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 272
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_227
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 272
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_228
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 272
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_229
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 271
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_230
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 271
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_231
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 271
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_232
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 270
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_233
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 270
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_234
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 219
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_235
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 219
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_236
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 219
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_237
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 219
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_238
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 219
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_239
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 219
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_240
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_241
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_242
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_243
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_244
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 219
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_245
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 219
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_246
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 219
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_247
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 219
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_248
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 219
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_249
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 219
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_250
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 219
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_251
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 219
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_252
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 219
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_253
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 219
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_254
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 219
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_255
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 220
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_256
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 219
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_257
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 219
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_258
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 219
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_259
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 219
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_260
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 219
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_261
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 219
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_262
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 177
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_263
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 177
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_264
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 177
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_265
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_266
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_267
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_268
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 178
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_269
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_270
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 178
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_271
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 178
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_272
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_273
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 178
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_274
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_275
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 178
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_276
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 177
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_277
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 177
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_278
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 177
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_279
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 177
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_280
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 141
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_281
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 141
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_282
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 94
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_283
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_285
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 94
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_286
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_287
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 94
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_288
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_289
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 94
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_290
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 94
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_291
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 94
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_292
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 94
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_293
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 94
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_294
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 94
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_295
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 94
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_296
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 61
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_297
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 61
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_298
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 61
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_299
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 61
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_300
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 61
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_301
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_302
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_303
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 61
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_304
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 61
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_305
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 61
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_306
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 61
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_307
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 61
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_308
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 61
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_309
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 61
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_310
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_311
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_312
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_313
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 14
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_314
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_315
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_316
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_317
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_318
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_319
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 15
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_320
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_321
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 15
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_322
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_323
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_324
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_325
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 15
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_326
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_327
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 15
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_328
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 14
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_329
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 15
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_330
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 15
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashSprite_331
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 15
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

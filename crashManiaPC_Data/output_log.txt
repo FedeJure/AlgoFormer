@@ -1,0 +1,61 @@
+Mono path[0] = 'C:/Users/Fede/Documents/proyectos unity/CrashMania/crashManiaPC_Data/Managed'
+Mono path[1] = 'C:/Users/Fede/Documents/proyectos unity/CrashMania/crashManiaPC_Data/Mono'
+Mono config path = 'C:/Users/Fede/Documents/proyectos unity/CrashMania/crashManiaPC_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Fede/Documents/proyectos unity/CrashMania/crashManiaPC_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55051
+Multi-casting "[IP] 192.168.56.1 [Port] 55051 [Flags] 3 [Guid] 3336041089 [EditorId] 3424281743 [Version] 1048832 [Id] WindowsPlayer(REPUBLICOFGAMING) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55051]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55051]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56089
+PlayerConnection already initialized - listening to [0.0.0.0:55051]
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.704 seconds
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Fede\Documents\proyectos unity\CrashMania\crashManiaPC_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 234.212738 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.181135 ms
+System memory in use before: 18.2 MB.
+System memory in use after: 18.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 13.079702 ms (FindLiveObjects: 0.033580 ms CreateObjectMapping: 12.885333 ms MarkObjects: 0.141037 ms  DeleteObjects: 0.019358 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563753 ms
+System memory in use before: 19.1 MB.
+System memory in use after: 19.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1038.
+Total: 0.345283 ms (FindLiveObjects: 0.049382 ms CreateObjectMapping: 0.017382 ms MarkObjects: 0.273382 ms  DeleteObjects: 0.004740 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33c8 -> priority: 1 
+  Thread -> id: 370c -> priority: 1 
